@@ -9,13 +9,17 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 Certified Cybersecurity Professional, Military Veteran, and IT Specialist dedicated to providing effectivecomputing investments by ensuring networks run smoothly, securely, and efficiently. Proven abilityto complete multiple tasks while providing quality work. Experienced utilizing security concepts,tools, and procedures for various Network Security Incidents while ensuring efficient operation of allnetworks and servers.
 
-## Skills
+## Projects
+## ⚠️ Vulnerability Management Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[STIG Implementations (PowerShell)](https://github.com/)**
+- **[Vulnerability Management Program Implementation](https://github.com/)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)**
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Network Traffic Monitoring and Attack Detection](https://github.com/)**
 
 ### Network
 <div>
@@ -39,5 +43,3 @@ Certified Cybersecurity Professional, Military Veteran, and IT Specialist dedica
 <img src="https://img.shields.io/badge/-GSEC-007ACC?&style=for-the-badge&logo=GIAC&logoColor=white" />
 </div>
 
-## Projects
-- GIAC
