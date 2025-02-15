@@ -1,11 +1,5 @@
-# john-rogers13
-# Hello, I'm John
+# I'm John and this is my IT and Cybersecurity Project Portfolio 🔐
 <a href="https://www.linkedin.com/in/john-rogers13 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
 
 Certified Cybersecurity Professional, Military Veteran, and IT Specialist dedicated to providing effectivecomputing investments by ensuring networks run smoothly, securely, and efficiently. Proven abilityto complete multiple tasks while providing quality work. Experienced utilizing security concepts,tools, and procedures for various Network Security Incidents while ensuring efficient operation of allnetworks and servers.
 
