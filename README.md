@@ -11,7 +11,7 @@ Certified Cybersecurity Professional, Military Veteran, and IT Specialist dedica
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/john-rogers13/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
 
 ### Network
 <div>
