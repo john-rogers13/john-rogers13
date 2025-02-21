@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\(STIG-ID-WN10-CC-000205).ps1 
 #>
 # Define the registry path and value name
 $RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\DataCollection"
